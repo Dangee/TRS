@@ -1,4 +1,4 @@
 TRS
 ===
 
-Time Reporting System (PHPéMySQL Experiment)
+Time Reporting System (PHP/MySQL Experiment)
